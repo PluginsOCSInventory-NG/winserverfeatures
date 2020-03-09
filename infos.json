@@ -1,0 +1,12 @@
+{
+  "displayName" : "Windows Server Features",
+  "author" : ["Gilles DUBOIS"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "version" : "1.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "fr" : "Remonte la liste des feature windows server",
+    "en" : "Retrieve windows server feature list"
+  }
+}

@@ -1,0 +1,3 @@
+152001 Fonctionnalités serveur windows
+152002 Installé ?
+152003 Sous-fonctionnalités
