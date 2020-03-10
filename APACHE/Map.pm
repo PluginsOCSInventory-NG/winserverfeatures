@@ -27,7 +27,7 @@ $DATA_MAP{winserverfeatures} = {
 		DISPLAYNAME => {},
 		DESCRIPTION => {},
 		INSTALLED => {},
-		SUBFEATURES => {},
+		SUBFEATURES => {}
 	}
 };
 1;
